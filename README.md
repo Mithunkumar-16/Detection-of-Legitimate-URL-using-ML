@@ -25,7 +25,7 @@ A poorly structured NN model may cause the model to underfit the training datase
 - Anaconda navigator ,jupyter notebook, python language
 
 
-
+# MYSELF
 - 👋 Hi, I’m @Mithunkumar-16
 - 👀 I’m interested in ...HACKING
 - 🌱 I’m currently learning ...C PROGRAMMING
