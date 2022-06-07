@@ -1,5 +1,3 @@
-# Detection-of-Legitimate-URL-using-ML
-
 # Detecting of Legitimate URL using Machine Learning
 
 # Abstract:-
