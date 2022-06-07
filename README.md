@@ -1,6 +1,6 @@
 # Detection-of-Legitimate-URL-using-ML
 
--Detecting of Legitimate URL using Machine Learning
+#Detecting of Legitimate URL using Machine Learning
 
   Abstract:-
   Malicious Web sites largely promote the growth of Internet criminal activities and constrain the development of Web services. As a result, there has been strong motivation to develop systemic solutions to stopping the user from visiting such Websites. We propose a learning based approach to classifying Web sites into 3 classes: Benign, Spam and Malicious. Our mechanism only analyzes the Uniform Resource Locator (URL) itself without accessing the content of Web sites. Thus, it eliminates the run-time latency and the possibility of exposing users to the browser based vulnerabilities. By employing learning algorithms, our scheme achieves better performance on generality and coverage compared with blacklisting service.
@@ -22,12 +22,12 @@
 
 
 
-  System requirements :-
-  Hardware requirements:
-  Operating system of windows 7, 8, 10(32-bit or 64-bit)
-  RAM-4GB
-  Software requirements :-
-  Anaconda navigator ,jupyter notebook, python language
+System requirements :-
+-Hardware requirements:
+-Operating system of windows 7, 8, 10(32-bit or 64-bit)
+-RAM-4GB
+-Software requirements :-
+-Anaconda navigator ,jupyter notebook, python language
 
 
 
